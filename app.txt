@@ -1,3 +1,5 @@
 hello
 world
 fixed typo
+line1
+line2
